@@ -1,0 +1,1 @@
+This repository comprises a series of Cypress automation projects aimed at testing various functionalities on different websites, including Google, LinkedIn, and a more detailed examination of grav-sport.ro, a sneaker shop. The projects encompass a wide range of testing scenarios, such as login, logout, add to cart, remove from cart, checkout processes, side panels, and more.
